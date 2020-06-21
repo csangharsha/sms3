@@ -12,7 +12,7 @@
     <artifactId>sms3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sms2</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for Spring Boot (SMS)</description>
     <packaging>jar</packaging>
 
     <properties>
